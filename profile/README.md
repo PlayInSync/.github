@@ -14,25 +14,31 @@ For server see - https://github.com/PlayInSync/PlayInSync-Server
 
 # Server
 
-### 🛠️ Installation & Set Up
+# 🛠️ Installation & Set Up
 
 ##### 1. Clone the repo
 
 ```sh
-git clone https://github.com/PlayInSync/PlayInSync-Server
+git clone https://github.com/PlayInSync/PlayInSync-Client
 ```
 
-##### 2. Run index.js using node
+##### 2. Install packages
+
+```sh
+npm i
+```
+
+##### 3. Run index.js using node
 
 ```sh
 npm start
 ```
 
-##### 3. Expose it to the Internet.
+##### 4. Expose it to the Internet.
 
 By default the app will listen to port 3000 and localhost, expose that to the internet to be able to use it from anywhere.
 
-### 💻 Technologies used
+# 💻 Technologies used
 
 - TypeScript
 - Express
