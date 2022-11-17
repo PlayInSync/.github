@@ -74,6 +74,11 @@ git clone https://github.com/PlayInSync/PlayInSync-Client
 
 - TypeScript
 
+# Might add later (idk)
+
+- [ ] Ability to create rooms in the same server
+- [ ] Somekind of permission system
+
 # Contributing
 
 - Fork the repo
