@@ -67,3 +67,10 @@ git clone https://github.com/PlayInSync/PlayInSync-Client
 # 💻 Technologies used
 
 - TypeScript
+
+# Contributing
+
+- Fork the repo
+- Work on a different branch
+- Make changes
+- Create a pull request
