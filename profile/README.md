@@ -9,9 +9,11 @@ Everytime someone changes the state of video playback (play/pause, seek, playbac
 Since all clients have the video required to sync even before the sync starts, this removes the hassel of streaming video (which leads to loss in quality and drop in fps)
 
 For client see - https://github.com/PlayInSync/PlayInSync-Client
+
 For server see - https://github.com/PlayInSync/PlayInSync-Server
 
-# Server 
+# Server
+
 ### 🛠️ Installation & Set Up
 
 ##### 1. Clone the repo
@@ -35,8 +37,8 @@ By default the app will listen to port 3000 and localhost, expose that to the in
 - TypeScript
 - Express
 
-
 # Client
+
 ### 🛠️ Installation & Set Up
 
 ##### 1. Clone the repo
